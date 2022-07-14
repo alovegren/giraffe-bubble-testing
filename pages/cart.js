@@ -26,7 +26,7 @@ const CartPage = ({ cartItems }) => {
       ) : (
         <>
           <div className={styles.header}>
-            <div>Image</div>
+            <div>Image Schmimage</div>
             <div>Product</div>
             <div>Price</div>
             <div>Quantity</div>
